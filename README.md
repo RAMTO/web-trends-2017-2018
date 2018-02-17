@@ -9,11 +9,12 @@ Web trends by categories with links
 
 ## Flexbox
 * 📖 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* 📖 https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676
 * 📹 https://flexbox.io/
 
 ## Grid
 * 📖 https://designmodo.com/css-grid/
-* 📖 https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676
+* 📖 https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0
 * 📹 https://cssgrid.io/
 
 ## CSS Variables
