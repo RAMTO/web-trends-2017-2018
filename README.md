@@ -32,6 +32,7 @@ Web trends by categories with links
 * 📖 https://auth0.com/blog/a-brief-history-of-javascript
 * 📖 http://javascript.info/
 * 📗 http://eloquentjavascript.net/3rd_edition/
+* 📹 https://javascript30.com/
 
 ## Node.js
 * 📖 https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd
