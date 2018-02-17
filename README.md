@@ -74,6 +74,7 @@ Web trends by categories with links
 * 📖 https://github.com/thedaviddias/Front-End-Checklist
 * 📖 https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3
 * 📗 https://hpbn.co/
+* https://www.webpagetest.org/
 
 # Blockchain
 * 🗄 https://enboard.co/0e0pqk/
