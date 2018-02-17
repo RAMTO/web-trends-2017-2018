@@ -20,11 +20,18 @@ Web trends by categories with links
 * 📖 https://vgpena.github.io/winning-with-css-variables/
 * 📖 https://css-tricks.com/now-css-custom-properties-thing-value-parts-can-changed-individually
 
+## SVG
+* 📖 https://www.sarasoueidan.com/blog/icon-fonts-to-svg/
+* 📖 https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/?es_sh=7e846f459dc7a008486cdea64abac762&es_ad=50307
+
 ## Animations
 * 🗄 https://enboard.co/a8yzxp/
 
 # JavaScript
+* 🗄 https://enboard.co/kpw43g
 * 📖 https://auth0.com/blog/a-brief-history-of-javascript
+* 📖 http://javascript.info/
+* 📗 http://eloquentjavascript.net/3rd_edition/
 
 ## Node.js
 * 📖 https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd
