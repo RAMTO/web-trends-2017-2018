@@ -5,6 +5,7 @@ Web trends by categories with links
 * 🗄 https://enboard.co/6ta91b
 
 # CSS
+* 🗄 https://enboard.co/ramto/
 
 ## Flexbox
 * 📖 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
@@ -20,10 +21,10 @@ Web trends by categories with links
 * 📖 https://css-tricks.com/now-css-custom-properties-thing-value-parts-can-changed-individually
 
 ## Animations
+* 🗄 https://enboard.co/a8yzxp/
 
 # JavaScript
 * 📖 https://auth0.com/blog/a-brief-history-of-javascript
-* 📖 https://medium.com/@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949
 
 ## Node.js
 * 📖 https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd
@@ -61,3 +62,9 @@ Web trends by categories with links
 # Performance
 * 📖 https://github.com/thedaviddias/Front-End-Checklist
 * 📖 https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3
+* 📗 https://hpbn.co/
+
+# Blockchain
+* 🗄 https://enboard.co/0e0pqk/
+* 📖 https://medium.com/@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949
+* 📹 https://www.youtube.com/watch?v=qOVAbKKSH10
