@@ -30,6 +30,7 @@ Web trends by categories with links
 * 🗄 https://enboard.co/a8yzxp/
 
 # JavaScript
+* 📖 https://stateofjs.com/2017
 * 🗄 https://enboard.co/kpw43g
 * 📖 https://auth0.com/blog/a-brief-history-of-javascript
 * 📖 http://javascript.info/
