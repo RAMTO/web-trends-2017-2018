@@ -39,6 +39,7 @@ Web trends by categories with links
 ## Node.js
 * 📖 https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd
 * 📖 https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2
+* 📖 https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e
 
 ## ES6
 * 📖 http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/?utm_source=codropscollective
