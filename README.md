@@ -20,6 +20,7 @@ Web trends by categories with links
 ## CSS Variables
 * 📖 https://vgpena.github.io/winning-with-css-variables/
 * 📖 https://css-tricks.com/now-css-custom-properties-thing-value-parts-can-changed-individually
+* 📖 https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/
 
 ## SVG
 * 📖 https://www.sarasoueidan.com/blog/icon-fonts-to-svg/
